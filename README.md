@@ -22,4 +22,7 @@ Sou Analista de Desenvolvedor de Sistemas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCastroC&&layout=donut-vertical)
 
-Amante da programação, sempre querendo evoluir mais e mais neste mundo. </br>
+### Pessoal
+- Gosto de jogar videogames no meu tempo livre, assistir séries e filmes. Jogar bola também está nessa lista.
+- Sou amante da programação, a maior parte do meu tempo é desenvolver sistemas, tanto podem ser sites, ou mesmos jogos utilizando as ferramentas adequadas. 
+
