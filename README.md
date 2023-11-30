@@ -1,3 +1,5 @@
+![360_F_278685521_SkqNloBUKvVrUwHOx6jTeiG8vIlkCvZV](https://github.com/AlvaroCastroC/AlvaroCastroC/assets/112010256/3c53622a-0992-4841-bc2b-757013237f03)
+
 # Hi, i´m Álvaro de Castro Cunha 👋🏻
 ### I´m from Brasil 🇧🇷
 ### Work with web development
